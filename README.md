@@ -28,4 +28,4 @@ web uygulamaları geliştiriyor, güvenlik açıklarını arıyor, arayüzler ta
 
 ---
 
-<sub>// her satır bir niyet</sub>
+<sub>// python ıg tools satılır </sub>
