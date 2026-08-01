@@ -1,4 +1,4 @@
-<div align="center">
+<div align="zh4reid">
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=E9D5FF&center=true&vCenter=true&width=500&lines=kullan%C4%B1c%C4%B1ad%C4%B1n" />
