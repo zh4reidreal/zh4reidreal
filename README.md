@@ -48,7 +48,6 @@
 
 ### // iletişim
 
-[github](https://github.com/zh4reidreal) &nbsp;·&nbsp; [linkedin](#) &nbsp;·&nbsp; [hackerone](#) &nbsp;·&nbsp; [twitter](#) &nbsp;·&nbsp; [mail](mailto:mail@mail.com)
-
+[github](https://github.com/zh4reidreal) &nbsp;·&nbsp;
 <br/>
-<sub>// kodu gör — sistemi anla — tasarımı hisset</sub>
+<sub>// web </sub>
