@@ -48,6 +48,6 @@
 
 ### // iletişim
 
-[github](https://github.com/zh4reidreal) &nbsp;·&nbsp;
+[github](https://github.com/zh4reidreal)
 <br/>
 <sub>// web </sub>
