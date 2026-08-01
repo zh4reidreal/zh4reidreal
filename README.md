@@ -8,18 +8,11 @@ web uygulamaları geliştiriyor, güvenlik açıklarını arıyor, arayüzler ta
 
 ---
 
-**odak alanlarım**
-eng
+**odak alanları**
 
 `web development` — frontend · backend · fullstack  
 `web security`    — bug hunting · pentest · recon  
 `ui design`       — figma · minimal · functional  
-
-tr
-
-`Web geliştirme` — ön uç · arka uç · tam yığın
-`Web güvenliği` — hata avı · sızma testi · keşif
-`Kullanıcı arayüzü tasarımı` — figma · minimal · fonksiyonel
 
 ---
 
