@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1200&color=F3E8FF&center=true&vCenter=true&width=560&lines=zh4reidreal" alt="zh4reidreal" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=1500&color=F0E6FF&center=true&vCenter=true&width=600&lines=zh4reidreal" alt="zh4reidreal" />
 
 ```
-// web developer · security researcher · designer
+@zh4reidreal  ·  web dev  ·  security  ·  design
 ```
 
 </div>
@@ -24,30 +24,31 @@
 
 ---
 
-### // araçlar & teknolojiler
+### // teknolojiler
 
-![HTML](https://img.shields.io/badge/HTML·CSS-060010?style=flat-square&color=1a0040&labelColor=1a0040)
-![JS](https://img.shields.io/badge/JavaScript-060010?style=flat-square&color=1a0040&labelColor=1a0040)
-![Python](https://img.shields.io/badge/Python-060010?style=flat-square&color=1a0040&labelColor=1a0040)
-![Node](https://img.shields.io/badge/Node.js-060010?style=flat-square&color=1a0040&labelColor=1a0040)
-![React](https://img.shields.io/badge/React-060010?style=flat-square&color=1a0040&labelColor=1a0040)
-![Burp](https://img.shields.io/badge/Burp_Suite-060010?style=flat-square&color=1a0040&labelColor=1a0040)
-![Figma](https://img.shields.io/badge/Figma-060010?style=flat-square&color=1a0040&labelColor=1a0040)
-![Linux](https://img.shields.io/badge/Linux-060010?style=flat-square&color=1a0040&labelColor=1a0040)
-![Git](https://img.shields.io/badge/Git-060010?style=flat-square&color=1a0040&labelColor=1a0040)
+![HTML](https://img.shields.io/badge/HTML·CSS-03000a?style=flat-square&color=09001a&labelColor=09001a&logoColor=9d7fc4)
+![JS](https://img.shields.io/badge/JavaScript-03000a?style=flat-square&color=09001a&labelColor=09001a)
+![Python](https://img.shields.io/badge/Python-03000a?style=flat-square&color=09001a&labelColor=09001a)
+![Node](https://img.shields.io/badge/Node.js-03000a?style=flat-square&color=09001a&labelColor=09001a)
+![React](https://img.shields.io/badge/React-03000a?style=flat-square&color=09001a&labelColor=09001a)
+![Burp](https://img.shields.io/badge/Burp_Suite-03000a?style=flat-square&color=09001a&labelColor=09001a)
+![Figma](https://img.shields.io/badge/Figma-03000a?style=flat-square&color=09001a&labelColor=09001a)
+![Linux](https://img.shields.io/badge/Linux-03000a?style=flat-square&color=09001a&labelColor=09001a)
+![Git](https://img.shields.io/badge/Git-03000a?style=flat-square&color=09001a&labelColor=09001a)
 
 ---
 
 ### // github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=zh4reidreal&show_icons=true&hide_border=true&bg_color=060010&title_color=f3e8ff&icon_color=7c3aed&text_color=b39ddb&ring_color=4c1d95" />
+<img src="https://github-readme-stats.vercel.app/api?username=zh4reidreal&show_icons=true&hide_border=true&bg_color=03000a&title_color=f0e6ff&icon_color=7c3aed&text_color=9d7fc4&ring_color=1a0035" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zh4reidreal&hide_border=true&background=060010&stroke=1a0040&ring=7c3aed&fire=c084fc&currStreakLabel=e9d5ff&sideLabels=4c2d7a&dates=3b1f60" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zh4reidreal&hide_border=true&background=03000a&stroke=09001a&ring=4a00a0&fire=9333ea&currStreakLabel=e9d5ff&sideLabels=2d0f5e&dates=1e0840" />
 
 ---
 
 ### // iletişim
 
 [github](https://github.com/zh4reidreal)
+
 <br/>
-<sub>// web </sub>
+<sub>// web dev/ &nbsp;&nbsp; zh4reidreal </sub>
