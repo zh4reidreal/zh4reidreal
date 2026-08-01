@@ -24,7 +24,7 @@ web uygulamaları geliştiriyor, güvenlik açıklarını arıyor, arayüzler ta
 
 **bul beni**
 
-[github](https://github.com/KULLANICI) · [linkedin](#) · [hackerone](#) · [mail](mailto:mail@mail.com)
+[github](https://github.com/zh4reidreal) · [linkedin](#) · [hackerone](#) · [mail](mailto:mail@xd)
 
 ---
 
