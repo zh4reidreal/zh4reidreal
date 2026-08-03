@@ -26,6 +26,7 @@
 
 ### // teknolojiler
 
+![#zh4reid](https://img.shields.io/badge/Node.js-03000a?style=flat-square&color=09001a&labelColor=09001a)
 ![HTML](https://img.shields.io/badge/HTML·CSS-03000a?style=flat-square&color=09001a&labelColor=09001a&logoColor=9d7fc4)
 ![JS](https://img.shields.io/badge/JavaScript-03000a?style=flat-square&color=09001a&labelColor=09001a)
 ![Python](https://img.shields.io/badge/Python-03000a?style=flat-square&color=09001a&labelColor=09001a)
@@ -33,8 +34,9 @@
 ![React](https://img.shields.io/badge/React-03000a?style=flat-square&color=09001a&labelColor=09001a)
 ![Burp](https://img.shields.io/badge/Burp_Suite-03000a?style=flat-square&color=09001a&labelColor=09001a)
 ![Figma](https://img.shields.io/badge/Figma-03000a?style=flat-square&color=09001a&labelColor=09001a)
-![Linux](https://img.shields.io/badge/Linux-03000a?style=flat-square&color=09001a&labelColor=09001a)
+![ubuntu](https://img.shields.io/badge/Linux-03000a?style=flat-square&color=09001a&labelColor=09001a)
 ![Git](https://img.shields.io/badge/Git-03000a?style=flat-square&color=09001a&labelColor=09001a)
+![#zh4reid](https://img.shields.io/badge/Node.js-03000a?style=flat-square&color=09001a&labelColor=09001a)
 
 ---
 
