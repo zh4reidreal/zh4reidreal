@@ -1,129 +1,158 @@
 ````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:03000A,30:12001F,70:3B0764,100:7C3AED&height=180&section=header&text=ZH4REID&fontSize=52&fontColor=F8F4FF&animation=fadeIn&fontAlignY=48"/>
+# ZH4REID
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=720&lines=WEB+DEVELOPER;SECURITY+RESEARCH;UI+%2F+UX+DESIGNER;BUILDING+MODERN+SOFTWARE"/>
+### SOFTWARE ENGINEER • WEB DEVELOPER • SECURITY RESEARCHER
 
-<p>
-<a href="https://github.com/zh4reidreal">
-<img src="https://img.shields.io/badge/GitHub-09001A?style=for-the-badge&logo=github&logoColor=ffffff"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=zh4reidreal&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
-</p>
-
-</div>
-
----
-
-# 01 // ABOUT
-
-```txt
-> Designing modern interfaces.
-> Building scalable software.
-> Exploring application security.
-
-Minimal.
-Functional.
-Secure.
-```
-
----
-
-# 02 // SPECIALIZATION
-
-```txt
-WEB DEVELOPMENT
-├─ Frontend
-├─ Backend
-└─ Full Stack
-
-SECURITY
-├─ Bug Hunting
-├─ Recon
-├─ Pentesting
-└─ OSINT
-
-DESIGN
-├─ UI
-├─ UX
-└─ Figma
-```
-
----
-
-# 03 // TECH STACK
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,electron,python,linux,git,github,vscode,figma"/>
-
-</p>
-
----
-
-# 04 // CURRENT MISSION
-
-```txt
-▣ Building desktop applications
-
-▣ Developing modern web experiences
-
-▣ Researching web security
-
-▣ Creating minimalist interfaces
-
-▣ Learning something new every day
-```
-
----
-
-# 05 // GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=zh4reidreal&show_icons=true&hide_border=true&bg_color=03000A&title_color=FFFFFF&text_color=BFA8FF&icon_color=7C3AED"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=zh4reidreal&hide_border=true&background=03000A&ring=7C3AED&fire=A855F7&currStreakLabel=FFFFFF"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Modern+Software;Designing+Clean+Interfaces;Exploring+Application+Security;Always+Learning."/>
 
 <br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh4reidreal&layout=compact&hide_border=true&bg_color=03000A&title_color=FFFFFF&text_color=BFA8FF"/>
+> *Minimalism is not the absence of complexity — it's the mastery of it.*
 
 </div>
 
 ---
 
-# 06 // ACTIVITY
+## ▌ WHOAMI
+
+```bash
+$ whoami
+
+Name      :: Eray
+Alias     :: zh4reid
+Role      :: Software Engineer
+Focus     :: Web Development
+Research  :: Application Security
+Stack     :: JavaScript • TypeScript • Python
+Status    :: Building
+```
+
+---
+
+## ▌ PHILOSOPHY
+
+```txt
+Design first.
+
+Architecture matters.
+
+Performance is a feature.
+
+Security is never optional.
+```
+
+---
+
+## ▌ STACK
+
+```text
+Frontend
+├── HTML
+├── CSS
+├── JavaScript
+├── TypeScript
+└── React
+
+Backend
+├── Node.js
+├── Express
+└── REST APIs
+
+Desktop
+└── Electron
+
+Security
+├── Burp Suite
+├── Recon
+├── Bug Hunting
+└── Pentesting
+
+Tools
+├── Git
+├── Linux
+├── VS Code
+└── Figma
+```
+
+---
+
+## ▌ CURRENT PROJECTS
+
+```text
+01  Plasma Shield
+    Modern Electron Desktop Application
+
+02  Sentinel
+    Security Research Toolkit
+
+03  Nova
+    Automation Platform
+
+04  Vertex
+    Experimental UI Components
+```
+
+---
+
+## ▌ GITHUB
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zh4reidreal&bg_color=03000A&color=C4B5FD&line=7C3AED&point=FFFFFF&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zh4reidreal&show_icons=true&hide_border=true&bg_color=0D061A&title_color=FFFFFF&text_color=C4B5FD&icon_color=A855F7"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=zh4reidreal&theme=midnight-purple&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh4reidreal&layout=compact&hide_border=true&bg_color=0D061A&title_color=FFFFFF&text_color=C4B5FD"/>
 
 </div>
 
 ---
 
-# 07 // PHILOSOPHY
+## ▌ ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zh4reidreal&bg_color=0D061A&color=FFFFFF&line=A855F7&point=C084FC&hide_border=true"/>
+
+</div>
+
+---
+
+## ▌ NOW PLAYING
 
 ```txt
-while(alive){
+Building...
+██████████████████████░░░░ 82%
 
-    build();
+Learning...
+██████████████████████████ 100%
 
-    learn();
+Coffee...
+██████████████████████████ 100%
+```
 
-    improve();
+---
 
-}
+## ▌ CONTACT
+
+```txt
+GitHub   :: github.com/zh4reidreal
+
+Open Source
+Web Development
+Security Research
+UI / UX
 ```
 
 ---
 
 <div align="center">
 
-```txt
+```text
 ███████╗██╗  ██╗██╗  ██╗██████╗ ███████╗██╗██████╗
 ╚══███╔╝██║  ██║██║  ██║██╔══██╗██╔════╝██║██╔══██╗
   ███╔╝ ███████║███████║██████╔╝█████╗  ██║██║  ██║
@@ -132,9 +161,9 @@ while(alive){
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═════╝
 ```
 
-**BUILD · SECURE · DESIGN**
+### BUILD • SECURE • CREATE
 
-<sub>© zh4reidreal</sub>
+<sub>© 2026 — zh4reid</sub>
 
 </div>
 ````
