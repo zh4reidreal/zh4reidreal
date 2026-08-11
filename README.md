@@ -27,7 +27,7 @@
 │                                                              │
 │                       Z H 4 R E I D R E A L                  │
 │                                                              │
-│        WEB DEVELOPMENT  ·  SECURITY  ·  DESIGN              │
+│        WEB DEVELOPMENT  ·  SECURITY  ·  DESIGN               │
 │                                                              │
 │        build  →  break  →  learn  →  improve                 │
 │                                                              │
