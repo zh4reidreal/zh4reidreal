@@ -1,169 +1,109 @@
-````markdown
+````md
 <div align="center">
 
 # ZH4REID
 
-### SOFTWARE ENGINEER • WEB DEVELOPER • SECURITY RESEARCHER
+### Software Engineer • Web Developer • Security Research
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Modern+Software;Designing+Clean+Interfaces;Exploring+Application+Security;Always+Learning."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Modern+Software;Designing+Clean+Experiences;Exploring+Security;Always+Learning."/>
 
 <br>
 
-> *Minimalism is not the absence of complexity — it's the mastery of it.*
+<img src="https://img.shields.io/badge/Focus-Web%20Development-1A102C?style=for-the-badge&labelColor=0D061A&color=7C3AED"/>
+<img src="https://img.shields.io/badge/Security-Research-1A102C?style=for-the-badge&labelColor=0D061A&color=7C3AED"/>
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-Design-1A102C?style=for-the-badge&labelColor=0D061A&color=7C3AED"/>
 
 </div>
 
 ---
 
-## ▌ WHOAMI
+## / about
 
-```bash
-$ whoami
-
+```txt
 Name      :: Eray
 Alias     :: zh4reid
 Role      :: Software Engineer
-Focus     :: Web Development
-Research  :: Application Security
-Stack     :: JavaScript • TypeScript • Python
-Status    :: Building
+
+Building clean software.
+Learning every day.
+Interested in security.
 ```
 
 ---
 
-## ▌ PHILOSOPHY
+## / tech stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,electron,python,git,github,vscode,linux,figma"/>
+
+</p>
+
+---
+
+## / currently
 
 ```txt
-Design first.
+▸ Web Development
 
-Architecture matters.
+▸ Desktop Applications
 
-Performance is a feature.
+▸ Security Research
 
-Security is never optional.
+▸ Modern UI Design
+
+▸ Open Source
 ```
 
 ---
 
-## ▌ STACK
-
-```text
-Frontend
-├── HTML
-├── CSS
-├── JavaScript
-├── TypeScript
-└── React
-
-Backend
-├── Node.js
-├── Express
-└── REST APIs
-
-Desktop
-└── Electron
-
-Security
-├── Burp Suite
-├── Recon
-├── Bug Hunting
-└── Pentesting
-
-Tools
-├── Git
-├── Linux
-├── VS Code
-└── Figma
-```
-
----
-
-## ▌ CURRENT PROJECTS
-
-```text
-01  Plasma Shield
-    Modern Electron Desktop Application
-
-02  Sentinel
-    Security Research Toolkit
-
-03  Nova
-    Automation Platform
-
-04  Vertex
-    Experimental UI Components
-```
-
----
-
-## ▌ GITHUB
+## / github
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zh4reidreal&show_icons=true&hide_border=true&bg_color=0D061A&title_color=FFFFFF&text_color=C4B5FD&icon_color=A855F7"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zh4reidreal&show_icons=true&hide_border=true&theme=midnight-purple"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=zh4reidreal&theme=midnight-purple&hide_border=true"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh4reidreal&layout=compact&hide_border=true&bg_color=0D061A&title_color=FFFFFF&text_color=C4B5FD"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh4reidreal&layout=compact&hide_border=true&theme=midnight-purple"/>
 
 </div>
 
 ---
 
-## ▌ ACTIVITY
+## / activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zh4reidreal&bg_color=0D061A&color=FFFFFF&line=A855F7&point=C084FC&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zh4reidreal&theme=react-dark&bg_color=0D061A&color=C4B5FD&line=7C3AED&point=FFFFFF&hide_border=true"/>
 
 </div>
 
 ---
 
-## ▌ NOW PLAYING
+## / philosophy
 
-```txt
-Building...
-██████████████████████░░░░ 82%
+```cpp
+while (alive) {
 
-Learning...
-██████████████████████████ 100%
+    build();
 
-Coffee...
-██████████████████████████ 100%
-```
+    learn();
 
----
+    improve();
 
-## ▌ CONTACT
-
-```txt
-GitHub   :: github.com/zh4reidreal
-
-Open Source
-Web Development
-Security Research
-UI / UX
+}
 ```
 
 ---
 
 <div align="center">
 
-```text
-███████╗██╗  ██╗██╗  ██╗██████╗ ███████╗██╗██████╗
-╚══███╔╝██║  ██║██║  ██║██╔══██╗██╔════╝██║██╔══██╗
-  ███╔╝ ███████║███████║██████╔╝█████╗  ██║██║  ██║
- ███╔╝  ██╔══██║██╔══██║██╔══██╗██╔══╝  ██║██║  ██║
-███████╗██║  ██║██║  ██║██║  ██║███████╗██║██████╔╝
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═════╝
-```
+### BUILD • CREATE • IMPROVE
 
-### BUILD • SECURE • CREATE
-
-<sub>© 2026 — zh4reid</sub>
+*"Simplicity is the ultimate sophistication."*
 
 </div>
 ````
