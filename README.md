@@ -1,56 +1,140 @@
+````markdown
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=1500&color=F0E6FF&center=true&vCenter=true&width=600&lines=zh4reidreal" alt="zh4reidreal" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:03000A,30:12001F,70:3B0764,100:7C3AED&height=180&section=header&text=ZH4REID&fontSize=52&fontColor=F8F4FF&animation=fadeIn&fontAlignY=48"/>
 
-```
-@zh4reidreal  ·  web dev  ·  security  ·  design
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=C4B5FD&center=true&vCenter=true&width=720&lines=WEB+DEVELOPER;SECURITY+RESEARCH;UI+%2F+UX+DESIGNER;BUILDING+MODERN+SOFTWARE"/>
+
+<p>
+<a href="https://github.com/zh4reidreal">
+<img src="https://img.shields.io/badge/GitHub-09001A?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=zh4reidreal&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
+</p>
 
 </div>
 
 ---
 
-> Web uygulamaları **inşa ediyor**, sistemlerin güvenlik açıklarını **keşfediyor**, kullanıcı deneyimlerini **tasarlıyorum**.
+# 01 // ABOUT
 
----
+```txt
+> Designing modern interfaces.
+> Building scalable software.
+> Exploring application security.
 
-### // uzmanlık
-
+Minimal.
+Functional.
+Secure.
 ```
-01  web development   →  frontend · backend · fullstack
-02  web security      →  bug hunting · pentest · recon
-03  ui / ux design    →  figma · minimal · functional
+
+---
+
+# 02 // SPECIALIZATION
+
+```txt
+WEB DEVELOPMENT
+├─ Frontend
+├─ Backend
+└─ Full Stack
+
+SECURITY
+├─ Bug Hunting
+├─ Recon
+├─ Pentesting
+└─ OSINT
+
+DESIGN
+├─ UI
+├─ UX
+└─ Figma
 ```
 
 ---
 
-### // teknolojiler
+# 03 // TECH STACK
 
-![#zh4reid](https://img.shields.io/badge/Node.js-03000a?style=flat-square&color=09001a&labelColor=09001a)
-![HTML](https://img.shields.io/badge/HTML·CSS-03000a?style=flat-square&color=09001a&labelColor=09001a&logoColor=9d7fc4)
-![JS](https://img.shields.io/badge/JavaScript-03000a?style=flat-square&color=09001a&labelColor=09001a)
-![Python](https://img.shields.io/badge/Python-03000a?style=flat-square&color=09001a&labelColor=09001a)
-![Node](https://img.shields.io/badge/Node.js-03000a?style=flat-square&color=09001a&labelColor=09001a)
-![React](https://img.shields.io/badge/React-03000a?style=flat-square&color=09001a&labelColor=09001a)
-![Burp](https://img.shields.io/badge/Burp_Suite-03000a?style=flat-square&color=09001a&labelColor=09001a)
-![Figma](https://img.shields.io/badge/Figma-03000a?style=flat-square&color=09001a&labelColor=09001a)
-![ubuntu](https://img.shields.io/badge/Linux-03000a?style=flat-square&color=09001a&labelColor=09001a)
-![Git](https://img.shields.io/badge/Git-03000a?style=flat-square&color=09001a&labelColor=09001a)
-![#zh4reid](https://img.shields.io/badge/Node.js-03000a?style=flat-square&color=09001a&labelColor=09001a)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,electron,python,linux,git,github,vscode,figma"/>
+
+</p>
 
 ---
 
-### // github stats
+# 04 // CURRENT MISSION
 
-<img src="https://github-readme-stats.vercel.app/api?username=zh4reidreal&show_icons=true&hide_border=true&bg_color=03000a&title_color=f0e6ff&icon_color=7c3aed&text_color=9d7fc4&ring_color=1a0035" />
+```txt
+▣ Building desktop applications
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zh4reidreal&hide_border=true&background=03000a&stroke=09001a&ring=4a00a0&fire=9333ea&currStreakLabel=e9d5ff&sideLabels=2d0f5e&dates=1e0840" />
+▣ Developing modern web experiences
+
+▣ Researching web security
+
+▣ Creating minimalist interfaces
+
+▣ Learning something new every day
+```
 
 ---
 
-### // iletişim
+# 05 // GITHUB ANALYTICS
 
-[github](https://github.com/zh4reidreal)
+<div align="center">
 
-<br/>
-<sub>// web dev/ &nbsp;&nbsp; zh4reidreal </sub>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=zh4reidreal&show_icons=true&hide_border=true&bg_color=03000A&title_color=FFFFFF&text_color=BFA8FF&icon_color=7C3AED"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=zh4reidreal&hide_border=true&background=03000A&ring=7C3AED&fire=A855F7&currStreakLabel=FFFFFF"/>
+
+<br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh4reidreal&layout=compact&hide_border=true&bg_color=03000A&title_color=FFFFFF&text_color=BFA8FF"/>
+
+</div>
+
+---
+
+# 06 // ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zh4reidreal&bg_color=03000A&color=C4B5FD&line=7C3AED&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# 07 // PHILOSOPHY
+
+```txt
+while(alive){
+
+    build();
+
+    learn();
+
+    improve();
+
+}
+```
+
+---
+
+<div align="center">
+
+```txt
+███████╗██╗  ██╗██╗  ██╗██████╗ ███████╗██╗██████╗
+╚══███╔╝██║  ██║██║  ██║██╔══██╗██╔════╝██║██╔══██╗
+  ███╔╝ ███████║███████║██████╔╝█████╗  ██║██║  ██║
+ ███╔╝  ██╔══██║██╔══██║██╔══██╗██╔══╝  ██║██║  ██║
+███████╗██║  ██║██║  ██║██║  ██║███████╗██║██████╔╝
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═════╝
+```
+
+**BUILD · SECURE · DESIGN**
+
+<sub>© zh4reidreal</sub>
+
+</div>
+````
