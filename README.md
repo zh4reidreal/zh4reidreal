@@ -81,13 +81,13 @@ Status      :: Building Projects
 
 | Skill | Level |
 |-------|--------|
-| HTML | ██████████████      |
-| CSS | █████████████       |
-| JavaScript | ███████████     |
-| Node.js | █████████████ |
-| Python | ████████████ |
-| UI Design | ███████████    |
-| Web Security | █████████     |
+| HTML | ████████           |
+| CSS | ████████        |
+| JavaScript | ██████       |
+| Node.js | ████████       |
+| Python | ████████     |
+| UI Design | ███████         |
+| Web Security | ██████         |
 
 ---
 
