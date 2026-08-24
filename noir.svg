@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="750" viewBox="0 0 900 750" role="img" aria-label="zn1ji">
+<rect width="900" height="750" rx="18" fill="#050505"/>
+<text x="450" y="64" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#f2f2f0" xml:space="preserve">▄▄▄█████▓▓█████  ▒█████  </text>
+<text x="450" y="80" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#f2f2f0" xml:space="preserve">▓  ██▒ ▓▒▓█   ▀ ▒██▒  ██▒</text>
+<text x="450" y="96" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#f2f2f0" xml:space="preserve">▒ ▓██░ ▒░▒███   ▒██░  ██▒</text>
+<text x="450" y="112" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#f2f2f0" xml:space="preserve">░ ▓██▓ ░ ▒▓█  ▄ ▒██   ██░</text>
+<text x="450" y="128" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#f2f2f0" xml:space="preserve">  ▒██▒ ░ ░▒████▒░ ████▓▒░</text>
+<text x="450" y="144" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#f2f2f0" xml:space="preserve">  ▒ ░░   ░░ ▒░ ░░ ▒░▒░▒░ </text>
+<text x="450" y="160" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#f2f2f0" xml:space="preserve">    ░     ░ ░  ░  ░ ▒ ▒░ </text>
+<text x="450" y="176" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#f2f2f0" xml:space="preserve">  ░         ░   ░ ░ ░ ▒  </text>
+<text x="450" y="192" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#f2f2f0" xml:space="preserve">            ░  ░    ░ ░</text>
+<text x="450" y="244" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-style="italic" fill="#f2f2f0">zn1ji</text>
+<text x="450" y="280" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-style="italic" fill="#8c8c88">tanıyorsun.</text>
+<text x="450" y="308" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#5c5c58">@zh4reidreal</text>
+<rect x="418" y="348" width="64" height="1" fill="rgba(242,242,240,0.16)"/>
+<text x="80" y="388" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="3" fill="#5c5c58">ABOUT</text>
+<text x="80" y="416" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#f2f2f0">2 yıl oldu</text>
+<text x="80" y="460" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="3" fill="#5c5c58">CURRENTLY</text>
+<text x="80" y="488" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#f2f2f0">●  öld#m</text>
+<text x="80" y="532" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="3" fill="#5c5c58">LOCATION</text>
+<text x="80" y="560" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#f2f2f0">nope</text>
+<text x="80" y="604" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="3" fill="#5c5c58">STACK</text>
+<rect x="80" y="626" width="96" height="28" rx="8" fill="none" stroke="rgba(242,242,240,0.14)"/>
+<text x="128" y="645" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f2f2f0">TypeScript</text>
+<rect x="184" y="626" width="58" height="28" rx="8" fill="none" stroke="rgba(242,242,240,0.14)"/>
+<text x="213" y="645" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f2f2f0">React</text>
+<rect x="250" y="626" width="65.6" height="28" rx="8" fill="none" stroke="rgba(242,242,240,0.14)"/>
+<text x="282.8" y="645" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f2f2f0">Design</text>
+<rect x="323.6" y="626" width="73.19999999999999" height="28" rx="8" fill="none" stroke="rgba(242,242,240,0.14)"/>
+<text x="360.20000000000005" y="645" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#f2f2f0">Node.js</text>
+<text x="450" y="702" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="4" fill="#5c5c58">BLACK  ·  WHITE  ·  BLACK</text>
+</svg>
