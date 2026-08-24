@@ -33,20 +33,17 @@ I prefer systems that are configuration-driven rather than hard-coded, with perm
 | --- | --- |
 | Discord Automation | Bots that carry the operational load of a server — replies, moderation, onboarding, support |
 | Permission Systems | Role control with hierarchy checks, authorized operators, and audit logs |
-| Node.js Systems | JavaScript services with discord.js, Express, and simple durable storage |
+| Node.js Systems | JavaScript and TypeScript services with discord.js and simple durable storage |
 
 ---
 
 ## Stack
 
-Only what the running systems actually use.
-
 | Layer | |
 | --- | --- |
-| Language | JavaScript |
+| Language | JavaScript · TypeScript |
 | Runtime | Node.js |
 | Platform | discord.js |
-| HTTP | Express |
 | Data | JSON · filesystem |
 | Tooling | Git · GitHub |
 
@@ -54,18 +51,23 @@ Only what the running systems actually use.
 
 ## Selected Work
 
-Source for these systems is private. They are the core of my current engineering work.
-
 | System | Role | Stack | Status |
 | --- | --- | --- | --- |
-| **99V APEX** | Server operations bot. Auto-role and welcome flow, word filter with penalty points and timeouts, auto-replies, user query, ticket channels, message-based wallet. Express keep-alive. | Node.js · discord.js · Express | Private |
-| **Yetki** | Interactive permission panel. Authorized operators grant or revoke roles through buttons and select menus, with hierarchy validation, duplicate-role guards, and channel logging. | Node.js · discord.js | Private |
+| **[MONO](https://github.com/zh4reidreal/mono)** | Case-driven operations bot. Warns, timeouts, kicks, bans, and tickets all open a numbered file. Slash commands, env-only secrets, atomic ledger. | TypeScript · discord.js | Public |
+| **99V APEX** | Server operations bot. Auto-role and welcome flow, word filter with penalty points and timeouts, auto-replies, user query, ticket channels, message-based wallet. | Node.js · discord.js | Private |
+| **Yetki** | Interactive permission panel. Authorized operators grant or revoke roles through buttons and select menus, with hierarchy validation and channel logging. | Node.js · discord.js | Private |
 
 ---
 
 ## System Map
 
 ```text
+MONO
+  command       →  permission gate
+  reason        →  required
+  case          →  MONO-00XX
+  mutate        →  Discord + ledger + log
+
 99V APEX
   member join   →  unverified role + welcome
   message       →  filter / auto-reply / wallet
@@ -92,17 +94,16 @@ YETKI
 
 ## Now
 
+- MONO — public operations bot
 - Discord automation for community operations
 - Permission and role-control flows
-- Tightening this profile and how the work is presented
 
 ---
 
 ## Direction
 
-- Split monolithic bot files into clearer modules
-- Move secrets out of the repository
-- Give internal tools public, documented counterparts
+- Split remaining monolithic bot files into clearer modules
+- Move secrets out of private repositories
 - Strengthen persistence beyond flat JSON where it matters
 
 ---
@@ -111,7 +112,7 @@ YETKI
 
 GitHub is the right place to reach me.
 
-**[zh4reidreal](https://github.com/zh4reidreal)**
+**[zh4reidreal](https://github.com/zh4reidreal)** · **[MONO](https://github.com/zh4reidreal/mono)**
 
 ---
 
