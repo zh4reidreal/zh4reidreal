@@ -1,18 +1,4 @@
 
-NOIR
-
-siyah · beyaz · readme
-
-
-
-
-Kopyala
-
-İndir
-Önizle
-Düzenle
-Kod
-README.md
 
 <div align="center">
 
