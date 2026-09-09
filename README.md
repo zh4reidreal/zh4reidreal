@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/zh4reidreal"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=5865F2&center=true&vCenter=true&width=800&lines=Building+useful+software;Discord+automation+%7C+Node.js+%7C+TypeScript;Curious+mind+%C2%B7+quiet+worker+%C2%B7+digital+creator" alt="Animated developer introduction" /></a>
+  <a href="https://github.com/zh4reidreal"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=800&color=5865F2&center=true&vCenter=true&width=900&lines=Web+security+research;Data+systems+%7C+Discord+bots;GPT+jailbreaking+research;Web+development+%7C+token+security" alt="Animated developer introduction" /></a>
 
   <p>
     <a href="https://github.com/zh4reidreal"><img src="https://img.shields.io/badge/GitHub-zh4reidreal-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
