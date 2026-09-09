@@ -49,21 +49,6 @@ I’m **zh4reid**, a developer focused on building practical tools, Discord auto
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff" alt="Git" />
 </p>
 
-## GitHub activity
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zh4reidreal&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zh4reidreal&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=zh4reidreal&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-
-</div>
-
 ## Let’s connect
 
 If you’re interested in Discord tooling, automation or building something useful together, feel free to explore my repositories or open an issue in one of the projects.
