@@ -2,15 +2,13 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/zh4reidreal/zh4reidreal/main/assets/neon-profile.svg" alt="zh4reid animated profile banner" width="100%" />
+  <a href="https://github.com/zh4reidreal"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=5865F2&center=true&vCenter=true&width=800&lines=Building+useful+software;Discord+automation+%7C+Node.js+%7C+TypeScript;Curious+mind+%C2%B7+quiet+worker+%C2%B7+digital+creator" alt="Animated developer introduction" /></a>
 
   <p>
     <a href="https://github.com/zh4reidreal"><img src="https://img.shields.io/badge/GitHub-zh4reidreal-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
     <a href="https://github.com/zh4reidreal?tab=repositories"><img src="https://img.shields.io/badge/Repositories-7-0d1117?style=for-the-badge&logo=github" alt="Repositories" /></a>
     <a href="https://github.com/zh4reidreal/mono"><img src="https://img.shields.io/badge/Featured%20project-mono-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Featured project mono" /></a>
   </p>
-
-  <h3>Building useful software with JavaScript, TypeScript and a little bit of neon.</h3>
 
 </div>
 
