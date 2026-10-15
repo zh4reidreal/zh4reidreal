@@ -22,7 +22,7 @@ jobs:
         with:
           github_user_name: zh4reidreal
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2367E8F9&color_dots=%230B0B0F,%23141B2D,%2322384A,%233C6172,%2367E8F9
 
       - name: Publish animation
         uses: crazy-max/ghaction-github-pages@v4
