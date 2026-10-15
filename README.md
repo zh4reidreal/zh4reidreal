@@ -58,6 +58,12 @@ SIGNAL   NEON
 </tr>
 </table>
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zh4reidreal/zh4reidreal/main/assets/code-rain.svg" width="100%" alt="Animated falling code" />
+
+</div>
+
 I design sharp web interfaces, build dependable JavaScript systems and turn Discord communities into smoother, automated experiences. I also study web security exclusively in authorized and responsible environments.
 
 ---
