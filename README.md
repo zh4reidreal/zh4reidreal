@@ -1,89 +1,125 @@
 <div align="center">
 
-# zh4reid
-
-> Web developer, Discord bot builder and ethical web-security researcher.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,48:16111f,76:5B21B6,100:22D3EE&height=220&section=header&text=ZH4REID&fontSize=64&fontColor=FFFFFF&fontAlignY=40&desc=WEB%20%2F%2F%20SECURITY%20%2F%2F%20AUTOMATION&descAlignY=62&descSize=15&animation=fadeIn" width="100%" alt="zh4reid" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=52&lines=WEB+VULNERABILITY+RESEARCHER;WEB+DESIGN+%2F+WEB+DEVELOPER;DISCORD+BOT+DEVELOPER;BUILDING+IN+BLACK+%26+WHITE." alt="Web Vulnerability Researcher · Web Designer · Discord Bot Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=850&color=C4B5FD&center=true&vCenter=true&width=820&height=62&lines=WEB+VULNERABILITY+RESEARCHER;WEB+DESIGNER+%26+DEVELOPER;DISCORD+BOT+ENGINEER;BLACK+INTERFACE.+WHITE+SIGNAL." alt="Animated introduction" />
 
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-zh4reidreal-000000?style=flat-square&logo=github&logoColor=ffffff)](https://github.com/zh4reidreal)
-[![Featured](https://img.shields.io/badge/Featured%20project-mono-000000?style=flat-square&logo=discord&logoColor=ffffff)](https://github.com/zh4reidreal/mono)
+<a href="https://github.com/zh4reidreal">
+  <img src="https://img.shields.io/badge/GITHUB-zh4reidreal-0B0B0F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B0B0F" alt="GitHub" />
+</a>
+<a href="https://github.com/zh4reidreal/mono">
+  <img src="https://img.shields.io/badge/FEATURED-mono-0B0B0F?style=for-the-badge&logo=discord&logoColor=C4B5FD&labelColor=0B0B0F" alt="Featured project" />
+</a>
 
 </div>
 
----
+<br />
 
-```txt
-╭──────────────────────────────────────────────────────────────────────╮
-│  BLACK INTERFACE  /  WHITE SIGNAL  /  NEON STATE                     │
-╰──────────────────────────────────────────────────────────────────────╯
+<div align="center">
+
+```
+╭──────────────────────────────────────────────────────────────────╮
+│   ◆  SIGNAL FOUND: ZH4REID                                      │
+│   ◇  DESIGN / DEVELOPMENT / SECURITY                             │
+╰──────────────────────────────────────────────────────────────────╯
 ```
 
-## `// about`
+</div>
 
-```js
-const zh4reid = {
-  focus: [
-    "Web Design",
-    "Web Development",
-    "Discord Bot Development",
-    "Web Vulnerability Research"
-  ],
-  principle: "Build clean. Test ethically. Ship precisely."
+## `01 / identity`
+
+<table>
+<tr>
+<td width="50%">
+
+```ts
+const profile = {
+  role: "Web Developer",
+  mode: "Dark / Minimal",
+  rule: "Build with intent."
 };
 ```
 
-I build practical web experiences, Discord automation and developer tools with a focus on clarity, performance and maintainable systems.
+</td>
+<td width="50%">
 
-> Security research is limited to authorized targets, educational environments and responsible-disclosure practices.
+```txt
+STATUS   ONLINE
+FOCUS    WEB + DISCORD
+THEME    MONOCHROME
+SIGNAL   NEON
+```
+
+</td>
+</tr>
+</table>
+
+I design sharp web interfaces, build dependable JavaScript systems and turn Discord communities into smoother, automated experiences. I also study web security exclusively in authorized and responsible environments.
 
 ---
 
-## `// stack`
+## `02 / capabilities`
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=ffffff)
-![Discord.js](https://img.shields.io/badge/Discord.js-000000?style=flat-square&logo=discord&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ffffff)
+| WEB DESIGN | WEB DEVELOPMENT | DISCORD BOTS | WEB SECURITY |
+| :---: | :---: | :---: | :---: |
+| Minimal interfaces | Fast web systems | Automation & tools | Responsible research |
+
+</div>
+
+<br />
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-0B0B0F?style=flat-square&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-0B0B0F?style=flat-square&logo=css3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0B0F?style=flat-square&logo=javascript&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0B0F?style=flat-square&logo=typescript&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-0B0B0F?style=flat-square&logo=nodedotjs&logoColor=FFFFFF)
+![Discord.js](https://img.shields.io/badge/Discord.js-0B0B0F?style=flat-square&logo=discord&logoColor=C4B5FD)
 
 </div>
 
 ---
 
-## `// featured work`
+## `03 / featured project`
 
-### [mono](https://github.com/zh4reidreal/mono)
+<div align="center">
 
-A case-driven Discord operations bot built with Node.js, TypeScript and discord.js — designed for clear workflows, useful automation and maintainable moderation tooling.
+### [mono →](https://github.com/zh4reidreal/mono)
+
+`Discord operations bot` — clear moderation flows, practical automation and a maintainable TypeScript foundation.
+
+</div>
 
 ---
 
-## `// current signal`
+## `04 / live activity`
 
-```txt
-[ 01 ]  Designing focused web interfaces
-[ 02 ]  Building Discord automation
-[ 03 ]  Researching web security responsibly
-[ 04 ]  Shipping clean developer experiences
-```
+<div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=zh4reidreal&show_icons=true&hide_border=true&bg_color=0B0B0F&title_color=FFFFFF&text_color=B8B8C2&icon_color=C4B5FD&ring_color=C4B5FD" alt="GitHub statistics" />
+<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=zh4reidreal&hide_border=true&background=0B0B0F&ring=C4B5FD&fire=22D3EE&currStreakLabel=FFFFFF&sideLabels=B8B8C2&dates=777783" alt="Contribution streak" />
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/zh4reidreal/zh4reidreal/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" />
+
+</div>
 
 ---
 
 <div align="center">
 
-[Explore repositories](https://github.com/zh4reidreal?tab=repositories)
+`SYSTEM ONLINE` &nbsp;·&nbsp; `DESIGN: BLACK / WHITE / NEON` &nbsp;·&nbsp; `BUILD: ACTIVE`
 
 <br /><br />
 
-`SYSTEM STATUS: ONLINE  •  VISUAL MODE: BLACK / WHITE / NEON`
+[Explore all repositories](https://github.com/zh4reidreal?tab=repositories)
 
 </div>
