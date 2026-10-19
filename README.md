@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/GITHUB-zh4reidreal-0B0B0F?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0B0B0F" alt="GitHub" />
 </a>
 <a href="https://github.com/zh4reidreal/mono">
-  <img src="https://img.shields.io/badge/FEATURED-mono-0B0B0F?style=for-the-badge&logo=discord&logoColor=C4B5FD&labelColor=0B0B0F" alt="Featured project" />
+  <img src="https://img.shields.io/badge/FEATURED-teo-0B0B0F?style=for-the-badge&logo=discord&logoColor=C4B5FD&labelColor=0B0B0F" alt="Featured project" />
 </a>
 
 </div>
