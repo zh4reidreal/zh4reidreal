@@ -97,7 +97,7 @@ I design sharp web interfaces, build dependable JavaScript systems and turn Disc
 
 <div align="center">
 
-### [mono →](https://github.com/zh4reidreal/mono)
+### 
 
 `Discord operations bot` — clear moderation flows, practical automation and a maintainable TypeScript foundation.
 
